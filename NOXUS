@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filmes e Séries",A&E
+http://new.lista.red:80/live/Lucas3453/lp197114/85468.m3u8
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filmes e Séries",A&E
+http://new.lista.red:80/live/Lucas3453/lp197114/85469.m3u8
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filmes e Séries",AMC
+http://new.lista.red:80/live/Lucas3453/lp197114/85474.m3u8
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filmes e Séries",AMC
+http://new.lista.red:80/live/Lucas3453/lp197114/85476.m3u8
+#EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png" group-title="Filmes e Séries",AXN
+http://new.lista.red:80/live/Lucas3453/lp197114/85480.m3u8
+#EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png" group-title="Filmes e Séries",AXN
+http://new.lista.red:80/live/Lucas3453/lp197114/85483.m3u8
+#EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
+http://new.lista.red:80/live/Lucas3453/lp197114/85397.m3u8
+#EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
+http://new.lista.red:80/live/Lucas3453/lp197114/85399.m3u8
+#EXTINF:-1 type="stream" tvg-id="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png" group-title="Variedade",Arte 1
+http://new.lista.red:80/live/Lucas3453/lp197114/84857.m3u8
+#EXTINF:-1 type="stream" tvg-id="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png" group-title="Entretenimento e Musica",BIS
+http://new.lista.red:80/live/Lucas3453/lp197114/84793.m3u8
+#EXTINF:-1 type="stream" tvg-id="Band News" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png" group-title="Notícia",Band News
+http://new.lista.red:80/live/Lucas3453/lp197114/84862.m3u8
+#EXTINF:-1 type="stream" tvg-id="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang
+http://new.lista.red:80/live/Lucas3453/lp197114/85260.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network
+http://new.lista.red:80/live/Lucas3453/lp197114/79901.m3u8
+#EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
+http://new.lista.red:80/live/Lucas3453/lp197114/85197.m3u8
+#EXTINF:-1 type="stream" tvg-id="Comedy Central" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title="Filmes e Séries",Comedy Central
+http://new.lista.red:80/live/Lucas3453/lp197114/85665.m3u8
+#EXTINF:-1 type="stream" tvg-id="Curta" tvg-logo="https://i.ibb.co/YRKtq0s/curta.png" group-title="Variedade",Curta!
+http://new.lista.red:80/live/Lucas3453/lp197114/84831.m3u8
+#EXTINF:-1 type="stream" tvg-id="Curta" tvg-logo="https://i.ibb.co/YRKtq0s/curta.png" group-title="Variedade",Curta!
+http://new.lista.red:80/live/Lucas3453/lp197114/84832.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery" tvg-logo="http://iv.pe/SGu" group-title="Documentários",Discovery H&H
+http://new.lista.red:80/live/Lucas3453/lp197114/85410.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery" tvg-logo="http://iv.pe/SGu" group-title="Documentários",Discovery H&H
+http://new.lista.red:80/live/Lucas3453/lp197114/85412.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
+http://new.lista.red:80/live/Lucas3453/lp197114/85403.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
+http://new.lista.red:80/live/Lucas3453/lp197114/85405.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Infantil",Discovery Kids
+http://new.lista.red:80/live/Lucas3453/lp197114/85262.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Science" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title="Documentario",Discovery Science
+http://new.lista.red:80/live/Lucas3453/lp197114/85419.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title="Documentario",Discovery Theater
+http://new.lista.red:80/live/Lucas3453/lp197114/85416.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title="Documentario",Discovery Turbo
+http://new.lista.red:80/live/Lucas3453/lp197114/85423.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery World" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title="Documentario",Discovery World
+http://new.lista.red:80/live/Lucas3453/lp197114/85428.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney Channel" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel
+http://new.lista.red:80/live/Lucas3453/lp197114/85266.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney JR" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR
+http://new.lista.red:80/live/Lucas3453/lp197114/85271.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney XD" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png" group-title="Infantil",Disney XD
+http://new.lista.red:80/live/Lucas3453/lp197114/85274.m3u8
